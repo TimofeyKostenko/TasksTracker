@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\bin\Debug\net6.0\ProjectTask.Domain.deps.json
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\bin\Debug\net6.0\ProjectTask.Domain.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\bin\Debug\net6.0\ProjectTask.Domain.pdb
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\refint\ProjectTask.Domain.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ProjectTask.Domain.pdb
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.Domain\obj\Debug\net6.0\ref\ProjectTask.Domain.dll

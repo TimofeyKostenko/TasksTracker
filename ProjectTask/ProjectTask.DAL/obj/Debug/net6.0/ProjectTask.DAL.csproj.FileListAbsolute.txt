@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\bin\Debug\net6.0\ProjectTask.DAL.deps.json
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\bin\Debug\net6.0\ProjectTask.DAL.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\bin\Debug\net6.0\ProjectTask.DAL.pdb
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\bin\Debug\net6.0\ProjectTask.Domain.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\bin\Debug\net6.0\ProjectTask.Domain.pdb
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\refint\ProjectTask.DAL.dll
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ProjectTask.DAL.pdb
+C:\Users\Admin\source\repos\ProjectTask\ProjectTask.DAL\obj\Debug\net6.0\ref\ProjectTask.DAL.dll
